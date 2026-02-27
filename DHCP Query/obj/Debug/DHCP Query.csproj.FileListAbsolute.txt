@@ -1,0 +1,14 @@
+H:\APPS\vsrepos\DHCP Query\DHCP Query\bin\Debug\DHCP Query.exe.config
+H:\APPS\vsrepos\DHCP Query\DHCP Query\bin\Debug\DHCP Query.exe
+H:\APPS\vsrepos\DHCP Query\DHCP Query\bin\Debug\DHCP Query.pdb
+H:\APPS\vsrepos\DHCP Query\DHCP Query\bin\Debug\DhcpServerApi.dll
+H:\APPS\vsrepos\DHCP Query\DHCP Query\obj\Debug\DHCP Query.csproj.AssemblyReference.cache
+H:\APPS\vsrepos\DHCP Query\DHCP Query\obj\Debug\DHCP_Query.Form1.resources
+H:\APPS\vsrepos\DHCP Query\DHCP Query\obj\Debug\DHCP_Query.Properties.Resources.resources
+H:\APPS\vsrepos\DHCP Query\DHCP Query\obj\Debug\DHCP Query.csproj.GenerateResource.cache
+H:\APPS\vsrepos\DHCP Query\DHCP Query\obj\Debug\DHCP Query.csproj.CoreCompileInputs.cache
+H:\APPS\vsrepos\DHCP Query\DHCP Query\obj\Debug\DHCP Query.csproj.Up2Date
+H:\APPS\vsrepos\DHCP Query\DHCP Query\obj\Debug\DHCP Query.exe
+H:\APPS\vsrepos\DHCP Query\DHCP Query\obj\Debug\DHCP Query.pdb
+H:\APPS\vsrepos\DHCP Query\DHCP Query\obj\Debug\DHCP_Query.netstatOutput.resources
+H:\APPS\vsrepos\DHCP Query\DHCP Query\obj\Debug\DHCP_Query.msgForm.resources
